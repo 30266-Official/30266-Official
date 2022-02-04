@@ -28,7 +28,7 @@ Good bey!
 30266-Official
 
 2021/06/16 19:24(UTC+8/BJT)
-<!---
-30266-Official/30266-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=30266-Official&show_icons=true&theme=dracula&locale=en" alt="30266-Official" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=30266-Official&show_icons=true&theme=dracula&locale=en&layout=compact" alt="30266-Official" /></p>
